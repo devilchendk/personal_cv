@@ -17,15 +17,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master of Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of Copenhagen
+    url: https://www.ku.dk/english/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# 更改你的社交媒体链接，改url即可.
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'

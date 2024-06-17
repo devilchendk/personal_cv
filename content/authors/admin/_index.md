@@ -29,7 +29,7 @@ organizations:
 # 更改你的社交媒体链接，改url即可.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'chendk1022@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,6 +40,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
+# 教育经历部分，删除模块的话把一整块area删除即可
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
@@ -72,6 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# Experience模块，工作经历
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

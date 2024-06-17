@@ -3,7 +3,7 @@
 title: 陈登科
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dengke Chen
 
 # Full name (for SEO)
 first_name: Dengke

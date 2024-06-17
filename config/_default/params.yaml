@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Liang Yu.'
+    notice: '© {year} Devil Chen.'
     license:
       enable: false
       allow_derivatives: false

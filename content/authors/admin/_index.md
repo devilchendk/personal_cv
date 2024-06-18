@@ -29,7 +29,7 @@ organizations:
 # 更改你的社交媒体链接，改url即可.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chendk1022@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev

@@ -37,9 +37,9 @@ footer:
   copyright:
     notice: '© {year} Devil Chen.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization

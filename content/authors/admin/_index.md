@@ -105,7 +105,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/python
       - name: RStudio
         description: ''
